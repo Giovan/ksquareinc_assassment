@@ -23,7 +23,7 @@ Open the Demo in: https://ksquareinc-assessment.herokuapp.com
 After creation, your project should look like this:
 
 ```
-ksquareinc-assassment/
+ksquareinc-assessment/
   README.md
   package.json
   .gitignore
