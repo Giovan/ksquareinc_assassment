@@ -1,4 +1,4 @@
-## Ksquareinc Assassment
+## Ksquareinc Assessment
 
 ## Description
 The intent of this coding test is to assess your ability to work with the React framework. We
@@ -16,7 +16,7 @@ https://jsonplaceholder.typicode.com/posts/:id
 console.log)
 
 ## Access
-Open the Demo in: https://ksquareinc-assasment.herokuapp.com
+Open the Demo in: https://ksquareinc-assessment.herokuapp.com
 
 ## Folder Structure
 
